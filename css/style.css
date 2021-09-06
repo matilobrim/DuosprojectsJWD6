@@ -1,0 +1,20 @@
+* {
+    margin: 02;
+    padding: 08;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    
+        max-width: 800px;
+        margin: 80px auto;
+        padding: 30px 45px;
+        
+        
+    
+}
+.row {
+    display:inline-flexbox;
+
+}
